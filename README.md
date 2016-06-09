@@ -22,8 +22,16 @@ $ rubocop
 $ cucumber --format html --out report.html
 ```
 
-Targets:
+## Targets:
+``` sh
 1. Argparser + Config
+```
+``` sh
 2. Cucumber/rspec parallel test execution
+```
+``` sh
 3. Page object pattern (site-prism)
+```
+``` sh
 4. Reporting (allure integration)
+```
