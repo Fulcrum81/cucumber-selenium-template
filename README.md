@@ -24,10 +24,10 @@ $ cucumber --format html --out report.html
 
 ## Targets:
 ``` sh
-1. Argparser + Config [Local, Remote, Cloud, Browser]
+1. Argparser + Config [Local, Remote, Cloud, Browser] - Andrey
 ```
 ``` sh
-2. Cucumber/rspec parallel test execution
+2. Cucumber/rspec parallel test execution - Andrey
 ```
 ``` sh
 3. Page object pattern (site-prism)
