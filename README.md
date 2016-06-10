@@ -33,9 +33,9 @@ $ cucumber --format html --out report.html
 3. Page object pattern (site-prism)
 ```
 ``` sh
-4. Reporting (allure integration)
+4. Reporting (allure integration) - Vadim
 ```
 ``` sh
-5. Jira/Xray integration with the automated tests
+5. Jira/Xray integration with the automated tests - Vadim (Secondary, if I have time)
 ```
 
