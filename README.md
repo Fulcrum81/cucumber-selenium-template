@@ -24,7 +24,7 @@ $ cucumber --format html --out report.html
 
 ## Targets:
 ``` sh
-1. Argparser + Config
+1. Argparser + Config [Local, Remote, Cloud, Browser]
 ```
 ``` sh
 2. Cucumber/rspec parallel test execution
@@ -35,3 +35,7 @@ $ cucumber --format html --out report.html
 ``` sh
 4. Reporting (allure integration)
 ```
+``` sh
+5. Jira/Xray integration with the automated tests
+```
+
